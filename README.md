@@ -1,3 +1,3 @@
 # 3Dportfolio
 
-Tech: React, React tilt, Maath, Vite, 
+Tech: React, React tilt, Maath, Vite, Three.js, Tailwind
