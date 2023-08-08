@@ -1,6 +1,8 @@
 # 3Dportfolio  
 
-#(Coming soon ....)  
+(Coming soon ....)  
 
-#Tech: React, React tilt, Maath, Vite, Three.js, Tailwind, framer motion
-#$npm run dev 
+Tech: React, React tilt, Maath, Vite, Three.js, Tailwind, framer motion  
+
+$npm run dev  
+
