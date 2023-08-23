@@ -133,7 +133,7 @@ const experiences = [
       company_name: "</Salt> (Stockholm-Sweden)",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Feb 2022 - Feb 2023",
+      date: "February 2022 - February 2023",
       points: [
         "Revised, modularized and update old code bases to modern development standards.",
         "Developed software for both desktop and mobile operating system.",
@@ -146,7 +146,7 @@ const experiences = [
       company_name: "La Riggiola (Stockholm-Sweden)",
       icon: shopify,
       iconBg: "#383E56",
-      date: "August 2019 - Jan 2022",
+      date: "August 2019 - January 2022",
       points: [
         "As an architect worked with multi-disciplianry team to design residentia & commmercial projects.",
         "Created graphic designs & models using BIM and AutoDesk softwares.",
@@ -159,7 +159,7 @@ const experiences = [
       company_name: "Giandebiaggi Architettura (Parma-Italy)",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Oct 2015 - July 2019",
+      date: "October 2015 - July 2019",
       points: [
         "Complete site measurements & gathered details of components to facilitate accurate design.",
         "Read project plans and estimate costs.",
