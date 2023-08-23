@@ -164,7 +164,7 @@ const experiences = [
         "Complete site measurements & gathered details of components to facilitate accurate design.",
         "Read project plans and estimate costs.",
         "Created drwaings in AutoCad & Revit program.",
-        "Perfome presentation of projects for clients & Municipality .",
+        "Perfomed presentations of projects for clients & Municipality .",
       ],
     },
 ];
