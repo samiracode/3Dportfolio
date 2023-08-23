@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
     {
       title: "React.js Developer Intern",
-      company_name: "Inspectis",
+      company_name: "Inspectis(Stockholm-Sweden)",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2023 - Present",
@@ -130,7 +130,7 @@ const experiences = [
     },
     {
       title: "Full Stack Developer Consultant",
-      company_name: "Salt",
+      company_name: "</Salt> (Stockholm-Sweden)",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Feb 2022 - Feb 2023",
@@ -142,28 +142,29 @@ const experiences = [
     },
     {
       title: "Web Developer & Architect Engineer",
-      company_name: "La Riggiola",
+      
+      company_name: "La Riggiola (Stockholm-Sweden)",
       icon: shopify,
       iconBg: "#383E56",
-      date: "August 2018 - Jan 2022",
+      date: "August 2019 - Jan 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Started as an architect and worked with multi-disciplianry team to design residentia & commmercial projects.",
+        "Created graphic designs & models using BIM and AutoDesk softwares.",
+        "In order to start a web shop for the company started to learn & implement JavaScript & React.",
+        "Design, Implement and maintain the complete UI & front-end of the web shop.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Architect Engineer",
+      company_name: "Giandebiaggi Architettura (Parma-Italy)",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Oct 2015 - July 2019",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Complete site measurements & gathered details of components to facilitate accurate design.",
+        "Read project plans and estimate costs.",
+        "Created drwaings in AutoCad & Revit program.",
+        "Perfome presentation of projects for clients & Municipality .",
       ],
     },
 ];
