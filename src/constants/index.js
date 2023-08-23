@@ -148,7 +148,7 @@ const experiences = [
       iconBg: "#383E56",
       date: "August 2019 - Jan 2022",
       points: [
-        "Started as an architect and worked with multi-disciplianry team to design residentia & commmercial projects.",
+        "As an architect worked with multi-disciplianry team to design residentia & commmercial projects.",
         "Created graphic designs & models using BIM and AutoDesk softwares.",
         "In order to start a web shop for the company started to learn & implement JavaScript & React.",
         "Design, Implement and maintain the complete UI & front-end of the web shop.",
