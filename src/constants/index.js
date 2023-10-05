@@ -18,7 +18,7 @@ import {
     meta,
     starbucks,
     salt,
-    shopify,
+    lariggiola,
     carrent,
     jobit,
     tripguide,
@@ -144,7 +144,7 @@ const experiences = [
       title: "Web Developer & Architect Engineer",
       
       company_name: "La Riggiola (Stockholm-Sweden)",
-      icon: shopify,
+      icon: lariggiola,
       iconBg: "#383E56",
       date: "August 2019 - January 2022",
       points: [

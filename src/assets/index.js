@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import lariggiola from "./company/lariggiola.png";
 import starbucks from "./company/starbucks.png";
 import salt from "./company/salt.png";
 
@@ -53,7 +53,7 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
+  lariggiola,
   starbucks,
   salt,
   carrent,
