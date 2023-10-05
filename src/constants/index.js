@@ -15,14 +15,15 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
+    giandebiaggi,
+    inspectis,
     salt,
     lariggiola,
     carrent,
     jobit,
     tripguide,
     threejs,
+    inspectis,
 } from "../assets";
   
 export const navLinks = [
@@ -118,7 +119,7 @@ const experiences = [
     {
       title: "React.js Developer Intern",
       company_name: "Inspectis(Stockholm-Sweden)",
-      icon: starbucks,
+      icon: inspectis,
       iconBg: "#383E56",
       date: "March 2023 - Present",
       points: [
@@ -157,7 +158,7 @@ const experiences = [
     {
       title: "Architect Engineer",
       company_name: "Giandebiaggi Architettura (Parma-Italy)",
-      icon: meta,
+      icon: giandebiaggi,
       iconBg: "#E6DEDD",
       date: "October 2015 - July 2019",
       points: [

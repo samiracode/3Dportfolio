@@ -21,9 +21,9 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
+import giandebiaggi from "./company/giandebiaggi.png";
 import lariggiola from "./company/lariggiola.png";
-import starbucks from "./company/starbucks.png";
+import inspectis from "./company/inspectis.png";
 import salt from "./company/salt.png";
 
 import carrent from "./carrent.png";
@@ -52,9 +52,9 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
+  giandebiaggi,
   lariggiola,
-  starbucks,
+  inspectis,
   salt,
   carrent,
   jobit,
