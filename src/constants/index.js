@@ -17,7 +17,7 @@ import {
     docker,
     meta,
     starbucks,
-    tesla,
+    salt,
     shopify,
     carrent,
     jobit,
@@ -131,7 +131,7 @@ const experiences = [
     {
       title: "Full Stack Developer Consultant",
       company_name: "</Salt> (Stockholm-Sweden)",
-      icon: tesla,
+      icon: salt,
       iconBg: "#E6DEDD",
       date: "February 2022 - February 2023",
       points: [
