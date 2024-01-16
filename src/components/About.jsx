@@ -41,7 +41,7 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
 
       <motion.p
@@ -53,7 +53,7 @@ const About = () => {
         with a hand-on frameworks like React, Node.js and Django.
         I'm a quick learner and collaborate closely with clients or team members to
         create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Go ahead and take a look at my experience and projects
+        real-world problems. Please go ahead and take a look at my experience and projects
         for knowing me better!
       </motion.p>
 
