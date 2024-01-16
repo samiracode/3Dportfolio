@@ -123,7 +123,7 @@ const experiences = [
       iconBg: "#E6DEDD",
       date: "September 2023 till present",
       points: [
-        "Currently mastering Python and Django for web development",
+        "Mastering Python programming and developing web applications with Django framwork",
         "Proficient in identifying and securing network layers",
         "Hands-on experience with Azure cloud services for production deployments"
       ],
