@@ -17,6 +17,7 @@ import {
     docker,
     giandebiaggi,
     inspectis,
+    lexicon,
     salt,
     lariggiola,
     carrent,
@@ -116,11 +117,23 @@ const technologies = [
   
 const experiences = [
     {
+      title:"Python and IT Security Student",
+      company_name: "Lexicon",
+      icon: lexicon,
+      iconBg: "#E6DEDD",
+      date: "September 2023 till present",
+      points: [
+        "Currently mastering Python and Django for web development",
+        "Proficient in identifying and securing network layers",
+        "Hands-on experience with Azure cloud services for production deployments"
+      ],
+    },
+    {
       title: "React.js Developer Intern",
       company_name: "Inspectis(Stockholm-Sweden)",
       icon: inspectis,
       iconBg: "#383E56",
-      date: "March 2023 - Present",
+      date: "March 2023 - July 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

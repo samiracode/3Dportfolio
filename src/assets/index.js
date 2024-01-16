@@ -24,7 +24,9 @@ import threejs from "./tech/threejs.svg";
 import giandebiaggi from "./company/giandebiaggi.png";
 import lariggiola from "./company/lariggiola.png";
 import inspectis from "./company/inspectis.png";
+import lexicon from "./company/lexicon.png";
 import salt from "./company/salt.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -55,6 +57,7 @@ export {
   giandebiaggi,
   lariggiola,
   inspectis,
+  lexicon,
   salt,
   carrent,
   jobit,
